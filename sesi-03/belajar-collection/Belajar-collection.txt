@@ -1,0 +1,23 @@
+collection : suatu penyimpanan dalam java dalam bentuk banyak
+misal : x=10 <== udah pasti 
+kalo dicollection : banyak jenis 
+array : satu simpan bisa menyimpan banyak email
+
+pelajari pertama class adalah :
+list : menyimpan data dalam jumlah yang banyak :
+didalam class list adalah add .. remove .. size <== untuk mengetahui isi berapa variabel list ini, get (index)
+
+list mempunyai 2 implementasi :
+arraylist : posisi didalam memori .. java booking 1 memori
+limitedlist : berdasarkan kebutuhan
+
+contoh : tentang email :
+
+list : 	1. string harus tulis new apa . new contoh : new Arraylist <string> ();
+daftaremail.add("......")
+	2. set : didalam class set adalah add.. remove .. size
+
+ada 2 implementasi :
+Hash set 
+Tree set
+contoh : daftarema
